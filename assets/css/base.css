@@ -1,0 +1,106 @@
+/* 
+    General css 
+*/
+
+header{
+    background-color: #7a0f7b;
+}
+.bg_black{
+    background-color: black;
+    color:#ffffff !important;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.bg_black .card{
+    color:black !important;
+}
+
+#course{
+    color: #fff;
+}
+.box{
+    background-color:#000;
+    text-align: center;
+}
+.box-header{ clear: both; height: 69px; margin-bottom: 10px;}
+/* .box-header p{ display: block;} */
+.box-header .left{
+    float: left;
+    width: 30%;
+    background-color: #7a0f7b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.box-header .right{
+    float: right;
+    width: 70%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+hr{
+    /* border-style: solid; */
+    border-width: 8px;
+    border-color:white;
+    margin-top: -25px;
+    margin-right: 230px;
+    
+}
+
+#hr2{
+    border-width: 5px;
+    border-color:white;
+    margin-top: -25px;
+    margin-right: 250px;
+}
+
+#hr3{
+    border-width: 1px;
+    border-color: rgb(80, 79, 79);
+    margin-top: 70px;
+    margin-right: 0px;
+}
+
+#purple{
+    background-color: purple;
+    color: white;
+    padding: 40px;
+}
+
+#lower{
+    margin-top: 40px;
+}
+
+.more{
+    outline: none;
+    background-color: purple;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    padding: 5px;
+    margin-top: 15px;
+}
+
+#stay-con{
+    /* height: 20px; */
+    color: purple;
+    padding: 20px;
+    margin-left: 30px;
+
+}
+
+#gray{
+
+    background-color: rgb(44, 44, 44);
+    color: white;
+    padding: 60px;
+}
+
+.footer{
+    text-align: center;
+}
+/* .left{
+
+} */
